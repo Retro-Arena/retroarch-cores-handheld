@@ -1,4 +1,4 @@
-# RK3326 RetroArch core repo
+# RK3326-3566 and Arm/Arm64 RetroArch core repo
 
 ## Dependencies
 
